@@ -1,7 +1,3 @@
-这是我参与更文挑战的第4天，活动详情查看：[更文挑战](https://juejin.cn/post/6967194882926444557)
-
-> github地址：https://github.com/yizhihuamao/Antd3TablePlus
-
 ### tableConfig = {}
 名称 | 备注
 ---|---
